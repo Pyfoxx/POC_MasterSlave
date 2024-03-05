@@ -1,7 +1,5 @@
 import flask
 import requests
-import itertools
-import json
 app = flask.Flask(__name__)
 
 
